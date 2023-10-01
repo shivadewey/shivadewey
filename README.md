@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-<!--
-**shivadewey/shivadewey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivadewey&label=Profile%20views&color=0e75b6&style=flat" alt="shivadewey" /> </p>
 
-Here are some ideas to get you started:
+[![Github](https://img.shields.io/github/followers/shivadewey?label=Follow&style=social)](https://github.com/shivadewey)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+ <!-- ## Stats 📈 -->
+<details>
+	<summary> My GitHub Stats</summary>
+<br>
+<p align="center">
+<a href="https://github.com/shivadewey">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shivadewey&count_private=true&show_icons=true&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shivadewey&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c" />
+</a>
+</p>
+</details>
+
+
+---
+
+
+[![Shiva's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivadewey&theme=chartreuse-dark)](https://git.io/praveenscience)
+---
+
+| ![Shiva's github stats](https://github-readme-stats.vercel.app/api?username=shivadewey&show_icons=true&theme=chartreuse-dark) | ![Shiva GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivadewey&theme=chartreuse-dark) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivadewey&theme=chartreuse-dark) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=shivadewey&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=chartreuse-dark) |
+
+---
+
+![GitHub metrics](https://metrics.lecoq.io/shivadewey)  
